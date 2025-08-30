@@ -9,6 +9,6 @@ This dataset visualizes the travel paths of individual NYC taxis. It can be appl
 ---
 
 ## Selected Book: Neural Networks and Deep Learning
-This book explores the fascinating world of neural networks, modeled after how the human brain processes information. I found this particular book interesting as it bridges computer science and psychology; I have a background in both. Neural networks are also poised to expand far beyond STEM, being integrated into many other sectors in the coming years.  
+This book explores the fascinating world of neural networks, modeled after how the human brain processes information. I found this particular book interesting as I have a background in both psychology and computer science, and neural networks merge the two. Neural networks are also poised to expand far beyond just STEM-adjacent fields, being integrated into many other sectors in the coming years.  
 
  [Book](http://neuralnetworksanddeeplearning.com/)  
