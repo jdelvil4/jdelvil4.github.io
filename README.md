@@ -1,4 +1,4 @@
-[My website](https://github.com/jdelvil4/jdelvil4.github.io)
+[My website](https://jdelvil4.github.io/)
 
 
 ## Selected Dataset: NYC Taxis: A Day in the Life
