@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome to my Web Mapping Portfolio
 
 Hi, my name is Juan Del Villar.
 
